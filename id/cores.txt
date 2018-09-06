@@ -1,0 +1,23 @@
+1.v
+
+#000000
+#998DA0
+#4D7C8A
+#88D9E6
+#FCFAF7
+
+2.v
+
+#32213A roxo
+#D16014 laranja
+#F1F7ED creme
+#7CA982 verde pastel
+#E0EEC6 verde tom mais claro
+
+3.v
+
+#FFF8F0 
+#0F7173 
+#32213A 
+#F3FFC6
+#9E2B25
